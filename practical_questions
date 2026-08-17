@@ -1,0 +1,8 @@
+How developers access the platform?
+How CI/CD reaches private infrastructure?
+How Kubernetes workloads communicate?
+How secrets are managed?
+How monitoring works across the platform?
+How the database survives a failure?
+How you recover from an outage at 2 AM?
+Most engineers think their career is limited by the number of tools they know
